@@ -1,0 +1,1 @@
+{"name":"Local: 3","url":"d:\\oa\\media.net\\3.cpp","tests":[{"id":1690730871463,"input":"2\n3\n1 2 1\n10 1 2\n1\n1\n100","output":"8 1 2\n100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\oa\\media.net\\3.cpp","group":"local","local":true}
