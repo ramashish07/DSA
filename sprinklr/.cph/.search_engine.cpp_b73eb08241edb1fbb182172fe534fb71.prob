@@ -1,0 +1,1 @@
+{"name":"Local: search_engine","url":"d:\\oa\\sprinklr\\search_engine.cpp","tests":[{"id":1690877442841,"input":"6\nI apple 2\nI google 1\nI sprinklr 10\nI spring 2\nQ apple\nQ spr","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\oa\\sprinklr\\search_engine.cpp","group":"local","local":true}

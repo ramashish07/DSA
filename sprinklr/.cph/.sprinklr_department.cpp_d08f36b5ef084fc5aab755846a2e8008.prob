@@ -1,0 +1,1 @@
+{"name":"Local: sprinklr_department","url":"d:\\oa\\sprinklr\\sprinklr_department.cpp","tests":[{"id":1690832210073,"input":"1\n5\n3\n1 2\n2 3\n1 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\oa\\sprinklr\\sprinklr_department.cpp","group":"local","local":true}

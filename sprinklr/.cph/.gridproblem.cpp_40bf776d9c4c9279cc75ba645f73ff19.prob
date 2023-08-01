@@ -1,0 +1,1 @@
+{"name":"Local: gridproblem","url":"d:\\oa\\sprinklr\\gridproblem.cpp","tests":[{"id":1690882386692,"input":"2\n2\nac\nc.","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\oa\\sprinklr\\gridproblem.cpp","group":"local","local":true}
